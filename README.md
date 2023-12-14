@@ -57,8 +57,8 @@
 ![image](https://github.com/Jeevithha/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/123623197/f0574f95-2e88-44df-8603-d09df2301662)
 ![image](https://github.com/Jeevithha/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/123623197/d7057776-dfa8-4163-9edd-783291d9deb5)
 
-### Name: JEEVITHA S
-### Register Number:212222100016 
+### Name: Sanjai S
+### Register Number: 23003393
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
